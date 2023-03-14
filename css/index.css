@@ -6541,7 +6541,7 @@ blockquote.pullquote.right {
   }
   
   .author-content-item.map {
-    background: url(https://img02.anzhiy.cn/adminuploads/1/2022/09/24/632e6f48981d8.jpg) no-repeat center;
+    background: url(https://s1.ax1x.com/2023/03/14/pp1Z6rn.png) no-repeat center;
     min-height: 160px;
     max-height: 400px;
     position: relative;
@@ -6552,7 +6552,7 @@ blockquote.pullquote.right {
     transition: 1s ease-in-out;
   }
   [data-theme="dark"] .author-content-item.map {
-    background: url(https://img02.anzhiy.cn/adminuploads/1/2022/09/26/6330ebf1f3e65.jpg) no-repeat center;
+    background: url(https://s1.ax1x.com/2023/03/14/pp1Z6rn.png) no-repeat center;
     background-size: 100%;
   }
   
@@ -7721,6 +7721,7 @@ blockquote.pullquote.right {
     --anzhiyu-shadow-light2black: 0 5px 12px -5px rgba(102, 68, 68, 0);
     --anzhiyu-card-border: #42444a
 }
+
 .search-dialog {
   position: fixed;
   top: 10%;
